@@ -35,7 +35,7 @@ function fillHeart() {
 /* Final yes */
 function finalYes() {
   document.getElementById("finalText").innerHTML =
-    "Always you, Nazeer ❤️ Happy Valentine’s to us ♾️";
+    "I love you, baby ❤️ Happy Valentine’s to us ♾️";
 
   startConfetti();
 }
